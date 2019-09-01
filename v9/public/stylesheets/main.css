@@ -1,0 +1,12 @@
+.img-thumbnail .img-fluid{
+    width:100%;
+}
+.img-thumbnail{
+    padding:0px;
+}
+.img-thumbnail .caption{
+    padding:12px;
+}
+.card .bg-light{
+    margin-top: 20px;
+}
